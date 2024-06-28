@@ -6,7 +6,7 @@ cycler==0.10.0
 docker==3.2.1
 docutils==0.15.2
 future==0.18.2
-idna==2.10
+idna==3.7
 iterable-queue==1.2.2
 jmespath==0.10.0
 kiwisolver==1.2.0
