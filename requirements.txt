@@ -26,5 +26,5 @@ six==1.15.0
 smmap2==2.0.3
 torch==1.6.0
 tqdm==4.48.2
-urllib3==1.25.10
+urllib3==1.26.19
 wincertstore==0.2
